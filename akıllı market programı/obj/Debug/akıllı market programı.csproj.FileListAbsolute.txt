@@ -1,0 +1,26 @@
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\bin\Debug\akıllı market programı.exe.config
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Form1.resources
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Form2.resources
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\bin\Debug\akıllı market programı.exe
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\bin\Debug\akıllı market programı.pdb
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.exe
+c:\users\ahmet\documents\visual studio 2013\Projects\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.pdb
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\bin\Debug\akıllı market programı.exe.config
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.exe
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.pdb
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\bin\Debug\akıllı market programı.exe
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\bin\Debug\akıllı market programı.pdb
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Form2.resources
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Properties.Resources.resources
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı market programı.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.kayit.resources
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Sifre_sıfırla.resources
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Giris.resources
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.Menü.resources
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\bin\Debug\Market.mdf
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\bin\Debug\Market_log.ldf
+C:\Users\AHMET\Desktop\akıllı market otomasyonu\akıllı market programı\akıllı market programı\obj\Debug\akıllı_market_programı.ÜrünPlatformu.resources
